@@ -1,0 +1,12 @@
+/desafio2
+│
+├── /ejercicio1
+│   |── /A    
+│   ├── /B             
+│   └── /C      
+├── /ejercicio2     
+│   │   ├── procesarlibro.php   
+│   └────── registro.html
+├── licence     
+├── estructura
+└── /readme 
